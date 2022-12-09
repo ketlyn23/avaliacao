@@ -52,12 +52,12 @@ nav a:hover {
 	margin: 0 1.5%;
 	padding: 30px 20px;
 	box-sizing: border-box;
-	border: 2px solid #000000;
+	border: 2px solid #00000000;
 	border-radius: 10px;
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #c78d1900;
 }
 
 .produtos li:active {
