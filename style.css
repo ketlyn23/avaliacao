@@ -238,7 +238,7 @@ td, th {
 	width: 70%;
 	opacity: 1;
 	transition: 400ms;
-	box-shadow: 10px 10px 10px 0 #00000004;
+	box-shadow: 10px 10px 10px 0 #FFFFF7;
 }
 
 .imagem-beneficios:hover {
